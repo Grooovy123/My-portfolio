@@ -11,4 +11,3 @@ My name is Reece Pullen I am 19 years old and I am mainly a self taught programm
 - Range of knowledge in C#.
 - Currently I have 3 years of programming experience.
 - I am ambitious, hardworking, self motivated and extreamly passionate about programming.
-- 
