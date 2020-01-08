@@ -6,4 +6,5 @@ My name is Reece Pullen I am 19 years old and I am a mainly self taught programm
 
 ## My skills
 
--Wide range of knowlege in python
+-Wide range of knowlege in python.
+-Range of knowledge in machine learning algorithms and modules.
