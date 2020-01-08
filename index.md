@@ -15,7 +15,7 @@ My name is Reece Pullen I am 19 years old and I am mainly a self taught programm
 ## Contact
 
 - Phone number: [07746 005262](tel:07746 005262)
-- Email: [468180@chrome.escg.ac.uk](468180@chrome.escg.ac.uk)
+- Email: [468180@chrome.escg.ac.uk]<468180@chrome.escg.ac.uk>
 ## Work and experience
 
 - Dominos
