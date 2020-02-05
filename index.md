@@ -20,3 +20,4 @@ My name is Reece Pullen I am 19 years old and I am mainly a self taught programm
 ## Work and experience
 
 - Dominos
+- cashier at a petrol station
