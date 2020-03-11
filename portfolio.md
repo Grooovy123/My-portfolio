@@ -4,7 +4,7 @@ layout: portfolio
 
 ## Portfolio
 
-Ai learns to play snake game
+Ai learns to play snake game<br>
 <img alt="Snake game" src="assets/images/snake-game.PNG"/><br>
 
 low poly terrain generation
