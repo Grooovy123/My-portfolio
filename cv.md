@@ -39,3 +39,30 @@ September 2018 – June 2020
 
 Sussexdowns College, Lewes GCSE Grade 3 English Language<br>
 September 2018 – June 2019
+
+Sussexdowns College, Lewes Level 2 Techincal Diploma<br>
+September 2017 – June 2018
+
+Kings academy Ringmer, Ringmer GCSE Grade 5 Mathmatics<br>
+September 2013 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE Grade B Graphics<br>
+September 2015 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE Grade CD Engineering<br>
+September 2015 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE Grade D<br>
+September 2015 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE D Chemistry<br>
+September 2013 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE D Physics<br>
+September 2013 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE D Biology<br>
+September 2013 – June 2017
+
+Kings academy Ringmer, Ringmer GCSE Grade 2 English Literature<br>
+September 2013 – June 2017
