@@ -20,6 +20,16 @@ January 2019 - August 2019
 Stock and Product management assistant at APG Cash Drawer, Newhaven<br>
 August 2017 - December 2018
 
+### Skills
+Python(3 years experience)
+C# (3 years experience)
+Good experience with Github
+Effective team leader
+Ability to work in a team
+Good knowlege of google drive
+Advanced understanding of google suite
+Good knowledge of Microsoft suite
+
 ### Education
 3 A Levels in Computing, Sussexdowns college, Lewes<br>
 september 2019 – June 2020
